@@ -1,0 +1,93 @@
+[
+	{
+		"id": 1,
+		"title": "Camison violeta",
+		"description": "Camison de algodon para dormir",
+		"price": 400,
+		"code": "1001",
+		"stock": 2,
+		"thumbnail": "imagenGenerica"
+	},
+	{
+		"id": 2,
+		"title": "Jean cargo",
+		"description": "Jean cargo elastizado",
+		"price": 4600,
+		"code": "1002",
+		"stock": 7,
+		"thumbnail": "imagenGenerica2"
+	},
+	{
+		"id": 4,
+		"title": "Pollera de tubo",
+		"description": "Pollera de fiesta azul",
+		"price": 4700,
+		"code": "1004",
+		"stock": 14,
+		"thumbnail": "imagenGenerica4"
+	},
+	{
+		"id": 5,
+		"title": "Vestido de fiesta",
+		"description": "Vestido de lentejuelas brillantes",
+		"price": 4500,
+		"code": "1005",
+		"stock": 13,
+		"thumbnail": "imagenGenerica5"
+	},
+	{
+		"id": 6,
+		"title": "Camison violeta",
+		"description": "Camison de algodon para dormir",
+		"price": 400,
+		"code": "1006",
+		"stock": 2,
+		"thumbnail": "imagenGenerica6"
+	},
+	{
+		"id": 7,
+		"title": "Jean cargo",
+		"description": "Jean cargo elastizado",
+		"price": 4900,
+		"code": "1007",
+		"stock": 4,
+		"thumbnail": "imagenGenerica7"
+	},
+	{
+		"id": 8,
+		"title": "Campera de cuero",
+		"description": "Campera de cuero sintetico negra",
+		"price": 4200,
+		"code": "1008",
+		"stock": 9,
+		"thumbnail": "imagenGenerica8"
+	},
+	{
+		"id": 9,
+		"title": "Pollera de tubo",
+		"description": "Pollera de fiesta azul",
+		"price": 4700,
+		"code": "1009",
+		"stock": 14,
+		"thumbnail": "imagenGenerica9"
+	},
+	{
+		"id": 10,
+		"title": "Vestido de fiesta",
+		"description": "Vestido de lentejuelas brillantes",
+		"price": 4500,
+		"code": "1010",
+		"stock": 13,
+		"thumbnail": "imagenGenerica10"
+	},
+	{
+		"id": 11,
+		"title": "Jean negro",
+		"description": "Jean negro de brillitos",
+		"price": 5400,
+		"thumbnail": "imagenGenerica20",
+		"code": "1011",
+		"stock": 6,
+		"status": true
+	}
+]
