@@ -1,0 +1,28 @@
+
+<form class="formContainer" action="">
+    <h3 class="tituloForm">Ingrese un producto</h3>
+    <label class="formLabel" for="title">Título: <input type="text" name="title" id="inputTitle"></label>
+    <label class="formLabel" for="description">Descripción: <input type="text" name="description"
+            id="inputDescription"></label>
+    <label class="formLabel" for="price">Precio: <input type="number" name="price" id="inputPrice"></label>
+    <label class="formLabel" for="code">Código: <input type="number" name="code" id="inputCode"></label>
+    <label class="formLabel" for="stock">Stock: <input type="number" name="stock" id="inputStock"></label>
+    <label class="formLabel" for="category">Categoría: <input type="text" name="category" id="inputCategory"></label>
+    <button class="buttonForm" id="createProduct">Crear Producto</button>
+</form>
+
+
+{{#each allProducts}}
+<ul>
+    <li>{{this.title}}</li>
+    <li>{{this.description}}</li>
+    <li>{{this.price}}</li>
+    <li>{{this.code}}</li>
+    <li>{{this.category}}</li>
+    <li>{{this.stock}}</li>
+</ul>
+{{/each}}
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/index.js"></script>
